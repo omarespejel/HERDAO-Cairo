@@ -1,6 +1,6 @@
 # First smart contracts with Cairo and HER DAO ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/auditless/cairo-template/blob/main/LICENSE) <a href="https://github.com/auditless/cairo-template/actions/workflows/test.yaml"> <img src="https://github.com/auditless/cairo-template/actions/workflows/test.yaml/badge.svg?event=push" alt="CI Badge"/> </a>
 
-[Built with **`auditless/cairo-template`**](https://github.com/auditless/cairo-template)
+[**Slides for the workshop**](https://docs.google.com/presentation/d/e/2PACX-1vQAsFzOhJSWroZzy2I2D9vbg1tHJNh8D9-ETrCwITX8Q33mfIVQetk0Z_ppbP_Xd2SIOcwbPxv_UiEm/pub?start=false&loop=false&delayms=3000)
 
 A workshop for building smart contracts with Cairo 1.0.
 
